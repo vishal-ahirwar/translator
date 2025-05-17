@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2a078a66-8b8f-432b-8c39-2f580babfe3a)
 
 ## 🗣️ English to Hindi Translator API using Hugging Face and FastAPI
 
